@@ -1,0 +1,5 @@
+First you need to go to the discord developer page, and create an application. Set a name and then go to the bot settings on the left. Click add bot and then set up details. Pick any permissions you may need.
+
+Next, go to the OAuth2 page, then scroll down and click bot. Again, select any permissions you may need.
+
+The link generated will allow you to add it to your servers.
