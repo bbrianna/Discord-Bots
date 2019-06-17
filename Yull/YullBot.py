@@ -41,6 +41,7 @@ async def yull(context):
       "Praise be to yull, lord Yullsus Christ",
       "Buy Phoenix some applesauce",
       "Give Phoenix some money to buy applesauce"
+		":regional_indicator_y: :regional_indicator_u: :regional_indicator_l: :regional_indicator_l: "
 
       
 	]
